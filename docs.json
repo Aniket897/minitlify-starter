@@ -66,6 +66,14 @@
             ]
           }
         ]
+      },
+      {
+        "tab" : "Custom Tab",
+        "groups" : [
+          {
+            "group" : "custom-group-1"
+          }
+        ]
       }
     ],
     "global": {
