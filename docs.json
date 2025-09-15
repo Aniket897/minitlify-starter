@@ -71,7 +71,13 @@
         "tab" : "Custom Tab",
         "groups" : [
           {
-            "group" : "custom-group-1"
+            "group" : "custom-group-1",
+            "pages": [
+              "api-reference/endpoint/get",
+              "api-reference/endpoint/create",
+              "api-reference/endpoint/delete",
+              "api-reference/endpoint/webhook"
+            ]
           }
         ]
       }
